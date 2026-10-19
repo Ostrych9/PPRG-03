@@ -1,0 +1,15 @@
+C:\Repositories\PPRG-03\Z06-PR\bin\Debug\net10.0\Z06-PR.exe
+C:\Repositories\PPRG-03\Z06-PR\bin\Debug\net10.0\Z06-PR.deps.json
+C:\Repositories\PPRG-03\Z06-PR\bin\Debug\net10.0\Z06-PR.runtimeconfig.json
+C:\Repositories\PPRG-03\Z06-PR\bin\Debug\net10.0\Z06-PR.dll
+C:\Repositories\PPRG-03\Z06-PR\bin\Debug\net10.0\Z06-PR.pdb
+C:\Repositories\PPRG-03\Z06-PR\obj\Debug\net10.0\Z06-PR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositories\PPRG-03\Z06-PR\obj\Debug\net10.0\Z06-PR.AssemblyInfoInputs.cache
+C:\Repositories\PPRG-03\Z06-PR\obj\Debug\net10.0\Z06-PR.AssemblyInfo.cs
+C:\Repositories\PPRG-03\Z06-PR\obj\Debug\net10.0\Z06-PR.csproj.CoreCompileInputs.cache
+C:\Repositories\PPRG-03\Z06-PR\obj\Debug\net10.0\Z06-PR.sourcelink.json
+C:\Repositories\PPRG-03\Z06-PR\obj\Debug\net10.0\Z06-PR.dll
+C:\Repositories\PPRG-03\Z06-PR\obj\Debug\net10.0\refint\Z06-PR.dll
+C:\Repositories\PPRG-03\Z06-PR\obj\Debug\net10.0\Z06-PR.pdb
+C:\Repositories\PPRG-03\Z06-PR\obj\Debug\net10.0\Z06-PR.genruntimeconfig.cache
+C:\Repositories\PPRG-03\Z06-PR\obj\Debug\net10.0\ref\Z06-PR.dll

@@ -1,0 +1,15 @@
+C:\Repositories\PPRG-03\Z01\bin\Debug\net10.0\Z01.exe
+C:\Repositories\PPRG-03\Z01\bin\Debug\net10.0\Z01.deps.json
+C:\Repositories\PPRG-03\Z01\bin\Debug\net10.0\Z01.runtimeconfig.json
+C:\Repositories\PPRG-03\Z01\bin\Debug\net10.0\Z01.dll
+C:\Repositories\PPRG-03\Z01\bin\Debug\net10.0\Z01.pdb
+C:\Repositories\PPRG-03\Z01\obj\Debug\net10.0\Z01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositories\PPRG-03\Z01\obj\Debug\net10.0\Z01.AssemblyInfoInputs.cache
+C:\Repositories\PPRG-03\Z01\obj\Debug\net10.0\Z01.AssemblyInfo.cs
+C:\Repositories\PPRG-03\Z01\obj\Debug\net10.0\Z01.csproj.CoreCompileInputs.cache
+C:\Repositories\PPRG-03\Z01\obj\Debug\net10.0\Z01.sourcelink.json
+C:\Repositories\PPRG-03\Z01\obj\Debug\net10.0\Z01.dll
+C:\Repositories\PPRG-03\Z01\obj\Debug\net10.0\refint\Z01.dll
+C:\Repositories\PPRG-03\Z01\obj\Debug\net10.0\Z01.pdb
+C:\Repositories\PPRG-03\Z01\obj\Debug\net10.0\Z01.genruntimeconfig.cache
+C:\Repositories\PPRG-03\Z01\obj\Debug\net10.0\ref\Z01.dll
